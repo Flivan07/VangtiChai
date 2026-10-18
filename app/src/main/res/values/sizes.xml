@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <dimen name="text_size_amount">28sp</dimen>
+        <dimen name="text_size_note">18sp</dimen>
+        <dimen name="text_size_button">20sp</dimen>
+        <dimen name="margin_default">16dp</dimen>
+        <dimen name="padding_default">8dp</dimen>
+        <dimen name="key_margin">4dp</dimen>
+        <item name="guide_percent" format="float" type="dimen">0.4</item>
+</resources>
